@@ -19,7 +19,7 @@ Step into Tetris.E60 and experience the joy of classic block-stacking with a fri
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/M0bstos/Tetris-Game.git
+   git clone https://github.com/M0bstos/Tetris.e60
    ```
 2. Navigate to the project directory:
    ```bash
